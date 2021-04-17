@@ -21,4 +21,8 @@ export class Stack<T> {
   length() {
     return this.list.length();
   }
+
+  isEmpty() {
+    return this.list.length() === 0;
+  }
 }

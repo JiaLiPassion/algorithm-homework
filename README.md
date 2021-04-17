@@ -2,7 +2,9 @@
 
 代码注释中有力扣链接.
 
-### 第一周作业
+### 第一周
+
+#### 作业
 
 1. 循环队列, [circular-queue.ts](./lib/circular-queue.ts)
 2. 双向循环队列, [circular-deque.ts](./lib/circular-deque.ts)
@@ -29,3 +31,10 @@
 23. 接雨水, [trapping-rain-water.ts](./week1/trapping-rain-water.ts)
 24. 两数之和, [two-sum.ts](./week1/two-sum.ts)
 25. 有效的括号, [valid-parentheses.ts](./week1/valid-parentheses.ts)
+
+#### 面试模拟
+
+1. 选择餐馆: [select-restaurants.ts](./week1/interview/select-restaurants.ts), test [spec](./test/select-restaurants.spec.ts)
+2. 视野之和: [field-sum.ts](./week1/interview/field-sum.ts), test [spec](./test/field-sum.spec.ts)
+3. 每日在线用户量: [daily.temperatures.ts](./week1/interview/daily.temperatures.ts), test [spec](./test/daily.temperatures.spec.ts)
+4. 数据流查询: TODO, 想尝试一下用堆实现优先队列,会在下周作业中补上.
